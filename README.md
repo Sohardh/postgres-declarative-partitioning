@@ -1,4 +1,5 @@
 # PostgreSQL Declarative Partitioning Examples
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 This repository contains examples and demonstrations of PostgreSQL's declarative partitioning features. It serves as a companion to my blog post on PostgreSQL declarative partitioning.
 
